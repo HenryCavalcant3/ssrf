@@ -1,0 +1,2 @@
+# SSRF
+Este repositório contém uma demonstração prática de como funciona a vulnerabilidade de SSRF (Server-Side Request Forgery) e como ela pode ser explorada por atacantes para comprometer um sistema. O trabalho foi desenvolvido com o intuito de apresentar esta vulnerabilidade na disciplina de segurança do curso de Ciência da Computação. Através desta demonstração, os alunos poderão entender melhor os riscos associados à exploração da vulnerabilidade de SSRF e a importância de implementar medidas de segurança adequadas para mitigar tais riscos.
